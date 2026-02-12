@@ -1,0 +1,24 @@
+{
+  "name": "udemy-backend",
+  "version": "1.0.0",
+  "description": "complete node.js guide",
+  "homepage": "https://github.com/kesington18/udemy-backend#readme",
+  "bugs": {
+    "url": "https://github.com/kesington18/udemy-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kesington18/udemy-backend.git"
+  },
+  "license": "ISC",
+  "author": "Abdulwakeel Kesington",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
